@@ -12,4 +12,4 @@ Avro's documentation for installation: https://github.com/apache/avro/blob/maste
 
 # Compilation
 1. If on WSL, you may have linking errors like me. To fix, link the correct paths while compiling, something like this: -I/include -L/lib
-2. You also need to link this: -lavro
+2. You also need to link this: -lavro, AFTER you link the object files (after thr -o), or just at the very end of your compilation command
