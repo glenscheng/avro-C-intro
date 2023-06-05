@@ -1,6 +1,14 @@
 # avro-C-intro
-A little Avro C hello world to familiar myself with Avro.
+A simple Avro C program to familiar myself with Avro.
 
+# Goal
+Implement from scratch a little Avro C hello world that does the following:
+- Reads a schema (pick a thing to implement, like a person with a name, phone number, birthday, and address)
+- Creates a value using that schema
+- Fill out the value with information
+- Writes the value to file
+- Reads value from file
+- Prints data from the schema to screen
 
 # Installation
 Avro's documentation for installation: https://github.com/apache/avro/blob/master/lang/c/INSTALL
