@@ -21,3 +21,16 @@ Avro's documentation for installation: https://github.com/apache/avro/blob/maste
 # Compilation
 1. If on WSL, you may have linking errors like me. To fix, link the correct paths while compiling, add something like this: ```-I/include -L/lib```
 2. You also need to link this: ```-lavro```, AFTER you link the object files (after the ```-o```), or just at the very end of your compilation command
+
+# Makefile
+`make hello_world`: compiles source code<br>
+`make mem`: runs executable with valgrind<br>
+`make clean`: removes all object files and executables<br>
+
+# Program
+1. writes to `people.test.avro`
+2. reads from `people.test.avro`
+3. prints to `stderr`
+
+# Tests
+Created Avro and text files with different number of people to compare the file sizes
