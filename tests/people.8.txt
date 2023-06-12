@@ -1,0 +1,9 @@
+First Name  Last Name    Phone Number        Birthday                   Address
+      Glen      Smith      3849007657      06-05-2003        123 Peachtree Lane
+      Josh      Smith      1234567809               ?        234 Peachtree Lane
+      Sean      Smith      8374859172      12-05-1990        345 Peachtree Lane
+    Curtis      Smith      8394728199          1/4/99        456 Peachtree Lane
+       Jim      Smith    222-333-4444      12-05-1990                       N/A
+     Blake      Smith  (372) 543-1111      12-05-1990        678 Peachtree Lane
+       Mac      Smith  (765)-108-7654     May 29 1989        789 Peachtree Lane
+      Niko      Smith    273 242 3432      1989-08-17        890 Peachtree Lane
