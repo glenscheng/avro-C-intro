@@ -30,7 +30,7 @@ Avro's documentation for installation: https://github.com/apache/avro/blob/maste
 # Program
 1. writes to `people.test.avro`
 2. reads from `people.test.avro`
-3. prints to `stderr`
+3. prints to screen (`stderr`)
 
 # Tests
 Created Avro and text files with different number of people to compare the file sizes
